@@ -3,7 +3,7 @@ title: Glued Network
 subtitle: by Simon Yost
 email: simonyost@gmail.com
 description: A collection of properties to connect your world.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
